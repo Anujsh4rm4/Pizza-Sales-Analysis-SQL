@@ -1,16 +1,58 @@
-# 🍕 Pizza Sales Analysis - SQL Project  
-### 📊 Data-Driven Insights for Business Growth  
+# 🍕 Pizza Sales Analysis (SQL Project)
 
-🚀 **Project Overview**  
-This SQL-based project analyzes pizza sales data to identify:  
-✔️ Top-selling pizzas & revenue trends  
-✔️ Customer preferences & peak sales hours  
-✔️ Insights for optimizing inventory & operations  
+## 📌 Project Overview  
+This project analyzes pizza sales data using SQL to extract business insights such as top-selling pizzas, revenue trends, and customer preferences.  
 
-🔍 **Technologies Used:**  
-- SQL (MySQL/PostgreSQL)  
-- Data Cleaning & Analysis  
-- Business Intelligence  
+---
+
+## 📂 Dataset  
+- `orders.csv` – Order timestamps  
+- `order_details.csv` – Pizza order quantities  
+- `pizzas.csv` – Pizza size & pricing  
+- `pizza_types.csv` – Pizza names & categories  
+
+---
+
+## ❓ **SQL Questions**  
+
+### 🟢 **Basic Analysis**  
+1️⃣ Retrieve the total number of orders placed.  
+2️⃣ Calculate the total revenue generated from pizza sales.  
+3️⃣ Identify the highest-priced pizza.  
+4️⃣ Identify the most common pizza size ordered.  
+5️⃣ List the top 5 most ordered pizza types along with their quantities.  
+
+---
+
+### 🟡 **Intermediate Analysis**  
+6️⃣ Find the total quantity of each pizza category ordered.  
+7️⃣ Determine the distribution of orders by hour of the day.  
+8️⃣ Find the category-wise distribution of pizzas.  
+9️⃣ Calculate the average number of pizzas ordered per day.  
+🔟 Determine the top 3 most ordered pizza types based on revenue.  
+
+---
+
+### 🔴 **Advanced Analysis**  
+1️⃣1️⃣ Calculate the percentage contribution of each pizza type to total revenue.  
+1️⃣2️⃣ Analyze the cumulative revenue generated over time.  
+1️⃣3️⃣ Determine the top 3 most ordered pizza types based on revenue for each pizza category.  
+
+---
+
+## 📈 **Insights & Business Impact**  
+- Identified the **most profitable pizzas**.  
+- Found **customer ordering trends** (peak hours, pizza sizes).  
+- Helped optimize **inventory & staffing**.  
+
+---
+
+## 🏆 **Skills Demonstrated**  
+✅ SQL Joins & Aggregations  
+✅ Window Functions  
+✅ Revenue & Trend Analysis  
+
+---
 
 📂 **Files in This Repository:**  
 - `pizza_sales_analysis.sql` → Full SQL queries  
