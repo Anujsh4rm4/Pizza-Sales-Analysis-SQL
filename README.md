@@ -34,9 +34,9 @@ This project analyzes pizza sales data using SQL to extract business insights su
 ---
 
 ### 🔴 **Advanced Analysis**  
-1️⃣1️⃣ Calculate the percentage contribution of each pizza type to total revenue.  
-1️⃣2️⃣ Analyze the cumulative revenue generated over time.  
-1️⃣3️⃣ Determine the top 3 most ordered pizza types based on revenue for each pizza category.  
+1️⃣ Calculate the percentage contribution of each pizza type to total revenue.  
+2️⃣ Analyze the cumulative revenue generated over time.  
+3️⃣ Determine the top 3 most ordered pizza types based on revenue for each pizza category.  
 
 ---
 
